@@ -1,0 +1,150 @@
+.home-container{
+    background: rgba(137, 43, 226, 0.322);
+    min-height: 100vh;
+    width: 100%;
+    /* padding: 20px; */
+    background-image: url('../assets/img/pexels13.jpg');
+    background-size: cover ;
+    background-attachment: fixed;
+}
+.tours-container{
+    margin-top: 20px;
+    width: 100%;
+    min-height: 70vh;
+    padding: 30px 15% 30px 15%;
+    /* background-color: red; */
+    
+}
+
+.tourcard-container{
+    margin-top: 20px;
+    width: 50%;
+    height: 80vh;
+    background-color: chartreuse;
+    border: 1px solid white;
+    display: flex;
+}
+
+
+
+.tourC{
+
+    width:100%;
+
+    padding: 20px;
+
+    padding-right: 30px;
+    background-color: rgba(255, 255, 255, 0.753);
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 60px;
+    margin-top: 20px;
+
+    /* background-color: royalblue; */
+
+}
+
+.tourC h1{
+
+    text-align: center;
+
+    /* font-size:55px; */
+
+    font-weight: bold;
+
+    color: rgb(78, 34, 9);
+
+ 
+
+ 
+
+}
+
+
+
+
+.ourtourC{
+
+    padding-top: 20px;
+
+    /* min-height: 270px; */
+
+    min-height: 250px;  /* for antd css */
+
+     -webkit-box-shadow: 0 10px 6px -6px #777; /* to have box shadow * */
+
+     -moz-box-shadow: 0 10px 6px -6px #777;
+
+          box-shadow: 0 10px 6px -6px #777;
+
+ 
+
+}
+
+.ourtourC img{
+
+    float: left;
+
+    width: 300px;
+
+    /* height: 240px; */
+    height: 280px; /* for antd css */
+
+    border-radius: 5px;
+
+    padding-right: 10px;
+
+}
+
+.ourtourC p{
+
+    font-size:18px;
+
+    color: rgba(5, 5, 5, 0.678);
+
+    padding:10px;
+
+}
+
+.morebuttonC{
+
+    /* margin-left:280px; */
+    margin-left:600px; /* for antd css */
+
+    color:rgb(78, 34, 9);
+
+    font-size:18px;
+
+    border: none;
+
+    border-bottom: 4px solid rgb(78, 34, 9);
+
+    /* background-color: white; */
+    background-color: rgba(255, 255, 255, 0.363);
+
+}
+
+.ourtourC h2{
+
+   color:rgb(78, 34, 9);
+
+   font-size:26px;
+
+   font-weight:bold;
+
+}
+
+.singletour-container{
+    width: 100%;
+    min-height: 100vh;
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px 10% 20px 10%;
+}
+
+.singletourimg-container{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(255, 0, 0, 0.068);
+    /* margin-top: 100px; */
+    margin-left: 20px;
+}

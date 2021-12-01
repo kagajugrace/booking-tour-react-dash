@@ -1,0 +1,189 @@
+*{
+  margin: 0px;
+  padding:0px; 
+  box-sizing: border-box;
+}
+
+
+
+
+.about{
+    margin-top: 6px;
+    width: 100%;
+    display: flex;
+    background: rgba(255, 255, 255, 0.726);
+    height: 110vh;
+    padding: 30px;
+    
+}
+
+.text-about{
+    width: 50%;
+}
+
+.text-about h1{
+  /* text-align: center; */
+  font-size: 50px;
+  color: rgb(78, 34, 9);
+  padding-top:100px;
+
+}
+
+.text-about p{
+  font-size:20px ;
+  color: black;
+  /* padding-top:180px; */
+  padding: 10px;
+}
+
+.about img{
+  width: 50%;
+  margin-left: 450px;
+  padding-top:100px;
+}
+
+
+.morebutton1{
+
+  /* margin-left:280px; */
+  background-color: rgb(78, 34, 9);;
+  color:white;
+  width: 50%;
+
+  font-size:18px;
+
+  /* border: none; */
+
+  border: 4px solid rgb(78, 34, 9);
+
+  /* background-color: white; */
+  padding: 10px;
+  float: left;
+
+}
+
+
+
+/* SIGNIN CSS */
+
+
+.signin-form{
+  width: 35%;
+  height: 60vh;
+  background: rgba(255, 255, 255, 0.678);
+  margin: 50px 15px 0px 400px;
+  /* margin: auto; */
+  padding: 30px ;
+  border-radius: 10px;
+
+  
+}
+
+.signin-form input{
+  width: 70%;
+  float: right;
+  padding: 10px;
+  margin: 5px ;
+  border-radius: 20px;
+  border: 2px  solid black;
+}
+
+.signin-form label{
+  /* width: 75%; */
+  float: left;
+  /* padding: 5px; */
+
+  padding: 10px;  /* for antd css */
+  margin-top: 10px;
+  /* font-size: 20px; */
+}
+
+
+
+/* SIGN UP CSS */
+
+
+.signup-form{
+  width: 35%;
+  min-height: 70vh;
+  background: rgba(255, 255, 255, 0.678);
+  margin: 20px 15px 0px 400px;
+  /* margin: auto; */
+  padding: 20px;
+  border-radius: 10px;
+  
+  
+
+  
+}
+
+.signup-form input{
+  width: 70%;
+  float: right;
+  padding: 10px;
+  margin: 5px;
+  border: 2px  solid black;
+  border-radius: 20px;
+}
+
+.signup-form label{
+  /* width: 75%; */
+  float: left;
+  /* padding: 12px; */
+
+  padding: 14px; /* for antd css*/
+  margin-top: 4px;
+  /* font-size: 20px; */
+}
+
+
+
+/* GALLERY CSS */
+
+
+.gallery-view{
+  width: 90%;
+  height: 170vh;
+  background: white;
+  padding: 20px;
+  border: 2px solid rgb(78, 34, 9) ;
+  margin-left: 60px;
+  flex-direction: column;
+  margin-top: 50px;
+  
+  
+}
+
+.gallery-view h1{
+  text-align: left;
+
+  padding: 30px;
+
+  font-size:40px;
+
+  color: rgb(78, 34, 9);
+
+}
+
+.view img {
+
+  width: 100%;
+
+  height: 300px;
+
+  object-fit: cover;
+
+  padding:10px;
+  margin-left: 20px;
+
+}
+
+.view img:hover {
+
+  /* border: 2px solid greenyellow;
+
+  background-color: rgb(78, 34, 9); */
+  filter: grayscale(1);
+  transform: scale(1.1);
+
+}

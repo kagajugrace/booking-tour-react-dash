@@ -1,0 +1,34 @@
+[
+    {
+        "firstname":"Jane",
+        "lastname":"Neza",
+        "email":"neza@gmail.com",
+        "phone":"+250788888878"
+    },
+
+    {
+        "firstname":"Luc",
+        "lastname":"Kagabo",
+        "email":"kagabo@gmail.com",
+        "phone":"+250787654321"
+    },
+
+    {
+        "firstname":"Lucy",
+        "lastname":"Iliza",
+        "email":"iliza@gmail.com",
+        "phone":"+250782354675"
+    },
+    {
+        "firstname":"Aline",
+        "lastname":"Sano",
+        "email":"sano@gmail.com",
+        "phone":"+250783456789"
+    },
+    {
+        "firstname":"Alice",
+        "lastname":"Keza",
+        "email": "keza@gmail.com",
+        "phone":"+250788845834"
+    }
+]

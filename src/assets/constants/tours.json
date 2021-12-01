@@ -1,0 +1,84 @@
+[
+    {
+      "title": " Nyungwe Park",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 50,
+      "available": 20,
+      "images": ["https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg","https://images.pexels.com/photos/386000/pexels-photo-386000.jpeg", "https://images.pexels.com/photos/450062/pexels-photo-450062.jpeg", "https://images.pexels.com/photos/1450340/pexels-photo-1450340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "https://images.pexels.com/photos/2087391/pexels-photo-2087391.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1230665/pexels-photo-1230665.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/302549/pexels-photo-302549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/238622/pexels-photo-238622.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/507410/pexels-photo-507410.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2010",
+      "phone": "+250 788 788 788",
+      "price": 300,
+      "tripDescription":"Laboris aute ipsum fugiat reprehenderit ipsum velit in do consequat amet excepteur quis. Dolore exercitation mollit magna officia labore magna. Sint incididunt minim commodo magna aliqua sint reprehenderit irure aute eiusmod amet nulla elit culpa.Cillum nulla duis adipisicing tempor dolor reprehenderit exercitation excepteur cillum sit amet est. In labore ut laborum aliqua ad. Laborum consectetur Lorem tempor proident mollit amet nulla aliqua mollit cupidatat laboris elit nulla.Amet cupidatat id officia Lorem irure dolor aliqua ipsum Lorem laborum. In minim amet deserunt Lorem Lorem id ipsum aliqua. Velit fugiat anim non minim mollit ea aute duis occaecat commodo sunt Lorem ad proident. Aliqua id pariatur magna officia adipisicing proident adipisicing duis nostrud exercitation.",
+      "user":{
+        "name":"John Smith",
+        "phone":"+250 788 788 722"
+      }
+    },
+  
+    {
+      "title": " Muhazi Lac",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 50,
+      "available": 20,
+      "images": ["https://images.pexels.com/photos/450062/pexels-photo-450062.jpeg","https://images.pexels.com/photos/386000/pexels-photo-386000.jpeg", "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg", "https://images.pexels.com/photos/1450340/pexels-photo-1450340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "https://images.pexels.com/photos/2087391/pexels-photo-2087391.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1230665/pexels-photo-1230665.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/302549/pexels-photo-302549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/238622/pexels-photo-238622.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/507410/pexels-photo-507410.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2010",
+      "phone": "+250 788 788 788",
+      "price": 300,
+      "tripDescription":"Laboris aute ipsum fugiat reprehenderit ipsum velit in do consequat amet excepteur quis. Dolore exercitation mollit magna officia labore magna. Sint incididunt minim commodo magna aliqua sint reprehenderit irure aute eiusmod amet nulla elit culpa.Cillum nulla duis adipisicing tempor dolor reprehenderit exercitation excepteur cillum sit amet est. In labore ut laborum aliqua ad. Laborum consectetur Lorem tempor proident mollit amet nulla aliqua mollit cupidatat laboris elit nulla.Amet cupidatat id officia Lorem irure dolor aliqua ipsum Lorem laborum. In minim amet deserunt Lorem Lorem id ipsum aliqua. Velit fugiat anim non minim mollit ea aute duis occaecat commodo sunt Lorem ad proident. Aliqua id pariatur magna officia adipisicing proident adipisicing duis nostrud exercitation.",
+      "user":{
+        "name":"John Smith",
+        "phone":"+250 788 788 722"
+      }
+    },
+    {
+      "title": " Gako Forest",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 80,
+      "available": 30,
+      "images": [ "https://images.pexels.com/photos/1450340/pexels-photo-1450340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/386000/pexels-photo-386000.jpeg", "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg", "https://images.pexels.com/photos/450062/pexels-photo-450062.jpeg","https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/2087391/pexels-photo-2087391.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1230665/pexels-photo-1230665.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/302549/pexels-photo-302549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/238622/pexels-photo-238622.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/507410/pexels-photo-507410.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2010",
+      "phone": "+250 788 788 788",
+      "price": 300,
+      "tripDescription":"Laboris aute ipsum fugiat reprehenderit ipsum velit in do consequat amet excepteur quis. Dolore exercitation mollit magna officia labore magna. Sint incididunt minim commodo magna aliqua sint reprehenderit irure aute eiusmod amet nulla elit culpa.Cillum nulla duis adipisicing tempor dolor reprehenderit exercitation excepteur cillum sit amet est. In labore ut laborum aliqua ad. Laborum consectetur Lorem tempor proident mollit amet nulla aliqua mollit cupidatat laboris elit nulla.Amet cupidatat id officia Lorem irure dolor aliqua ipsum Lorem laborum. In minim amet deserunt Lorem Lorem id ipsum aliqua. Velit fugiat anim non minim mollit ea aute duis occaecat commodo sunt Lorem ad proident. Aliqua id pariatur magna officia adipisicing proident adipisicing duis nostrud exercitation.",
+      "user":{
+        "name":"John Smith",
+        "phone":"+250 788 788 722"
+      }
+    },
+    {
+      "title": " Akagera National Park",
+      "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+      "seats": 40,
+      "available": 20,
+      "images": ["https://images.pexels.com/photos/386000/pexels-photo-386000.jpeg", "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg", "https://images.pexels.com/photos/450062/pexels-photo-450062.jpeg", "https://images.pexels.com/photos/1450340/pexels-photo-1450340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "https://images.pexels.com/photos/2087391/pexels-photo-2087391.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1230665/pexels-photo-1230665.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/302549/pexels-photo-302549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/238622/pexels-photo-238622.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/507410/pexels-photo-507410.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"],
+      "dateScheduled": "10 August 2010",
+      "dueDate": "15 August 2010",
+      "phone": "+250 788 788 788",
+      "price": 300,
+      "tripDescription":"Laboris aute ipsum fugiat reprehenderit ipsum velit in do consequat amet excepteur quis. Dolore exercitation mollit magna officia labore magna. Sint incididunt minim commodo magna aliqua sint reprehenderit irure aute eiusmod amet nulla elit culpa.Cillum nulla duis adipisicing tempor dolor reprehenderit exercitation excepteur cillum sit amet est. In labore ut laborum aliqua ad. Laborum consectetur Lorem tempor proident mollit amet nulla aliqua mollit cupidatat laboris elit nulla.Amet cupidatat id officia Lorem irure dolor aliqua ipsum Lorem laborum. In minim amet deserunt Lorem Lorem id ipsum aliqua. Velit fugiat anim non minim mollit ea aute duis occaecat commodo sunt Lorem ad proident. Aliqua id pariatur magna officia adipisicing proident adipisicing duis nostrud exercitation.",
+      "user":{
+        "name":"John Smith",
+        "phone":"+250 788 788 722"
+      }
+    
+    },
+    {
+        "title": " Akagera National Park",
+        "description": "Anim ea aliqua cillum consectetur eiusmod ipsum id eiusmod. Lorem tempor fugiat elit incididunt aliquip minim dolor aute dolore. Dolore dolore pariatur minim id enim in excepteur sit dolor.",
+        "seats": 40,
+        "available": 20,
+        "images": ["https://images.pexels.com/photos/815880/pexels-photo-815880.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/386000/pexels-photo-386000.jpeg", "https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg", "https://images.pexels.com/photos/450062/pexels-photo-450062.jpeg", "https://images.pexels.com/photos/1450340/pexels-photo-1450340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500", "https://images.pexels.com/photos/2087391/pexels-photo-2087391.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1230665/pexels-photo-1230665.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/302549/pexels-photo-302549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/1302991/pexels-photo-1302991.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/238622/pexels-photo-238622.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500","https://images.pexels.com/photos/507410/pexels-photo-507410.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"],
+        "dateScheduled": "10 October 2010",
+        "dueDate": "15 October 2010",
+        "phone": "+250 788 788 788",
+        "price": 300,
+        "tripDescription":"Laboris aute ipsum fugiat reprehenderit ipsum velit in do consequat amet excepteur quis. Dolore exercitation mollit magna officia labore magna. Sint incididunt minim commodo magna aliqua sint reprehenderit irure aute eiusmod amet nulla elit culpa.Cillum nulla duis adipisicing tempor dolor reprehenderit exercitation excepteur cillum sit amet est. In labore ut laborum aliqua ad. Laborum consectetur Lorem tempor proident mollit amet nulla aliqua mollit cupidatat laboris elit nulla.Amet cupidatat id officia Lorem irure dolor aliqua ipsum Lorem laborum. In minim amet deserunt Lorem Lorem id ipsum aliqua. Velit fugiat anim non minim mollit ea aute duis occaecat commodo sunt Lorem ad proident. Aliqua id pariatur magna officia adipisicing proident adipisicing duis nostrud exercitation.",
+        "user":{
+          "name":"John Smith",
+          "phone":"+250 788 788 722"
+        }
+      }
+  ]
