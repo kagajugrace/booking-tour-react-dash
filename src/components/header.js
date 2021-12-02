@@ -1,11 +1,14 @@
 import React,{useState} from "react";
 import "./header.css"
-import logo from "../assets/img/logo.png"
+import logo from "../assets/img/logo1.jpg"
 import {Modal, Form, Input, Button} from "antd";
 import {useNavigate} from "react-router-dom";
 const Header=()=>{
     const onFinish=(values)=>{
         console.log(values);
+        localStorage.setItem("userLogedIn",true);
+            
+            navigate("/dash/newtour");
     }
 
     const[modalvisible, setModalvisible] = useState(false);
@@ -27,16 +30,14 @@ const Header=()=>{
             <h1>SignIn Form</h1>
             <Form onFinish={onFinish}>
                 <Form.Item label="Email"
-                name="email" rules={[{required:true, type:"email"}]}>
+                name="email" rules={[{required:true}]}>
                     <Input type="email"/>
                 </Form.Item>
                 <Form.Item label="Password"
-                name="password" rules={[{required:true, type:"password"}]}>
+                name="password" rules={[{required:true}]}>
                     <Input type="password"/>
                 </Form.Item>
-                <Button htmlType="submit" type="primary" onClick={()=>{localStorage.setItem("userLogedIn",true);
-            
-            navigate("/dash/newtour");}}> Login</Button>
+                <Button htmlType="submit" type="primary" onClick={()=>{}}> Login</Button>
             </Form>
         </Modal>
 
@@ -44,7 +45,7 @@ const Header=()=>{
 
 <div className="header-container">
 
-<div className="logo">
+<div className="logo1">
             <img src={logo} alt="" width="100%"/>
         </div>
 

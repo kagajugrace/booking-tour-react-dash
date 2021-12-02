@@ -9,12 +9,13 @@ import Tours from "../views/tours";
 import Newtourview from "../views/dashboard/newtour";
 import AllTour from "../views/dashboard/alltour";
 import Singletour from "../components/singletour";
-import {Routes, Route} from 'react-router-dom';
+import {Routes, Route, useLocation} from 'react-router-dom';
 import Dashlayout from "../components/dashboardlayout";
 // import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 const isUserLogedIn= localStorage.getItem("userLogedIn")
 const Index=()=>{
+    const currentUrl = useLocation().pathname
     return(
         <>
        <Routes>
@@ -46,7 +47,8 @@ const Index=()=>{
 </Route>
 </Routes> 
 {
-    isUserLogedIn ?(
+    // isUserLogedIn ?(
+        isUserLogedIn && currentUrl.includes("/dash") ?(
         <Dashlayout>
 <Routes>
 

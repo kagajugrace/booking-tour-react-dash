@@ -20,7 +20,7 @@
     display: flex;
     box-shadow:  3px 3px 3px 3px rgb(248, 171, 171);
     /* position: fixed; */
-    z-index: 999;
+    /* z-index: 999; */
     width: 100%;
 }
 .navbar-right{
@@ -35,7 +35,7 @@
 .header-container a{
     color: white;
     padding: 20px;
-    font-size: larger;
+    font-size: large;
     /* background:green; */
     float:right;
     text-decoration: none;
@@ -55,10 +55,11 @@
     text-decoration: underline;
 }
 
-.logo{
+.logo1{
     width: 10%;
-    height: 70px;
-    background-color: white;
+    /* margin-top: 5px; */
+    height: 80px;
+    /* background-color: green; */
     text-align: center;
     /* display: block;
     margin-left: auto;
