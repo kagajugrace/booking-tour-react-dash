@@ -102,6 +102,8 @@ const Singletour=({data})=>{
           </SRLWrapper>
 
  </div>
+ <br/>
+ <button className="button p3">Book Now!</button>
 </div>
 
     )
