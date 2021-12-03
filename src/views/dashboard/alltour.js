@@ -77,9 +77,12 @@ const users = [
       render:(text, record) => (
 
         <Space size="middle">
-          <a><EditOutlined/></a>
-          <a>{<EyeOutlined/>}</a>
-          <a style={{color:"red"}}>{<DeleteOutlined/>}</a>
+          <Popover content="Edit">
+          <a><EditOutlined/></a></Popover>
+          <Popover content="View">
+          <a>{<EyeOutlined/>}</a></Popover>
+          <Popover content="Delete">
+          <a style={{color:"red"}}>{<DeleteOutlined/>}</a></Popover>
         </Space>
       )
   },
