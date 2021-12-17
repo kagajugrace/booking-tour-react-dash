@@ -32,7 +32,7 @@ const[collapsed, setCollapsed] = useState(false);
             <Link to="/dash/alltour">  Manage Tours </Link>
             </Menu.Item>
             <Menu.Item key="3" icon={<UploadOutlined />} onClick={()=>localStorage.removeItem("userLogedIn",false)}>
-             <Link to="/home"> Logout </Link>
+             <Link to="/"> Logout </Link>
             </Menu.Item>
           </Menu>
         </Sider>
